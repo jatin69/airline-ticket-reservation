@@ -24,6 +24,7 @@ int main() {
 	do {
 		delay(200);
 		cout << "\n";
+		cout<<  "\n";
 		cout << "\n                  ##############################################";
 		cout << "\n                  ##                                          ##";
 		cout << "\n                  ##      AIRLINE  TICKET  RESERVATION        ##";
@@ -124,6 +125,7 @@ void userPanel() {
 	cout << "\n                   ##                                        ##";
 	cout << "\n                   ############################################";
 	cout << "\n\n";
+	cout<<  "\n\n";
 	char entry_user;
 
 	do {
